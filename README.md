@@ -7,7 +7,7 @@ Fifth-year student of Bauman Moscow State Technical University, Faculty of Compu
 
 [📧Mail me](mailto:i@sluysar.ru)
 
-## Languages and Tools🛠:
+## 🛠Languages and Tools:
 - I know the Python programming language well
 - Data processing and visualization (Pandas, Seaborn, Scikit-Learn, Numpy, Matplotlib)
 - Building classical machine learning models (Scikit-Learn, CatBoost, XGBoost, LightGBM)
