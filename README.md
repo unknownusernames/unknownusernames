@@ -9,3 +9,6 @@ Fifth-year student of Bauman Moscow State Technical University, Faculty of Compu
 
 ## Languages and Tools:
 ![image](https://user-images.githubusercontent.com/47815921/231521197-d6b2b0eb-8c63-4613-b7eb-7fa3bb20e68a.png)
+:height: 100px
+:width: 200 px
+:scale: 50 %
