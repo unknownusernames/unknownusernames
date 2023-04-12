@@ -8,4 +8,4 @@ Fifth-year student of Bauman Moscow State Technical University, Faculty of Compu
 [Mail me](mailto:i@sluysar.ru)
 
 ## Languages and Tools:
-![image](https://user-images.githubusercontent.com/47815921/231521197-d6b2b0eb-8c63-4613-b7eb-7fa3bb20e68a.png, 50x50)
+<img src="https://kadiner.ir/wp-content/uploads/2022/04/A-XNXYD-3183-R-084.jpg" width="150" height="280">
