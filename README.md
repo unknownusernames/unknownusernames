@@ -9,11 +9,11 @@ Fifth-year student of Bauman Moscow State Technical University, Faculty of Compu
 
 ## Languages and Tools:
 <img src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80"
+src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80"
+src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80"
+src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80"
+src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80"
+src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80"
+src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80"
+src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80"
 src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80">
-<img src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80">
-<img src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80">
-<img src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80">
-<img src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80">
-<img src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80">
-<img src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80">
-<img src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80">
