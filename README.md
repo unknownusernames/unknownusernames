@@ -8,4 +8,4 @@ Fifth-year student of Bauman Moscow State Technical University, Faculty of Compu
 [Mail me](mailto:i@sluysar.ru)
 
 ## Languages and Tools:
-<img src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="100" height="100">
+<img src="https://stickykart.com/wp-content/uploads/2020/11/scikit-learn-logo-Sticker.png" width="80" height="80">
