@@ -17,4 +17,4 @@ Fifth-year student of Bauman Moscow State Technical University, Faculty of Compu
 ## 🏆 My achievements
 BEST2023 (Track Data Science) #5
 
-Naimark (Track Smart Campus: Science and  technology) #5
+Neimark (Track Smart Campus: Science and technology) #5
