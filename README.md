@@ -1,6 +1,7 @@
 I'm a Data Scientist based in **Moscow 🌆**
 
-ML Dev at **RTK IT**![image](https://github.com/user-attachments/assets/45cf244a-0a46-425b-9775-9a131bdf04aa)
+ML Dev at **RTK IT**![image](https://github.com/user-attachments/assets/da68b4e9-26a4-4872-91de-0f5195953327)
+
 
 
 Six-year student of Bauman Moscow State Technical University, Faculty of Computer Science, Artificial Intelligence and Control Systems.
