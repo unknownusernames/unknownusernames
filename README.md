@@ -4,7 +4,7 @@ ML Dev at ![image](https://github.com/user-attachments/assets/da68b4e9-26a4-4872
 
 
 
-Six-year student of Bauman Moscow State Technical University, Faculty of Computer Science, Artificial Intelligence and Control Systems.
+Education: **Bauman Moscow State Technical University**, Faculty of Computer Science, Artificial Intelligence and Control Systems.
 
 ## ☎️ Contact information
 [📬Telegram](https://t.me/usernamess)
