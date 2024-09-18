@@ -1,6 +1,6 @@
 I'm a Data Scientist based in **Moscow 🌆**
 
-ML Dev at **RTK IT**![image](https://github.com/user-attachments/assets/da68b4e9-26a4-4872-91de-0f5195953327)
+ML Dev at ![image](https://github.com/user-attachments/assets/da68b4e9-26a4-4872-91de-0f5195953327)
 
 
 
