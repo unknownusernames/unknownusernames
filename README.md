@@ -10,7 +10,7 @@ Education: **Bauman Moscow State Technical University**, Faculty of Computer Sci
 [📧Mail me](mailto:i@sluysar.ru)
 
 ## 🛠Languages and Tools
-- I know the Python programming language well
+- Python forever
 - Data processing and visualization (Pandas, Seaborn, Scikit-Learn, Numpy, Matplotlib)
 - Classical machine learning models (Scikit-Learn, CatBoost, XGBoost, LightGBM)
 - NLP-based services development (Transformers, LangChain)
